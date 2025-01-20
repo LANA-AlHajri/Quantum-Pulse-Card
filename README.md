@@ -34,11 +34,6 @@ A premium 3D interactive card component crafted with pure CSS, featuring dynamic
 - متغيرات CSS
 - تخطيط Flexbox
 
-## دعم المتصفحات 🌐
-- كروم 60+
-- فايرفوكس 54+
-- سفاري 10+
-- إيدج 79+
 
 ## الترخيص 📄
 MIT © LANA-AlHajri
@@ -47,5 +42,4 @@ MIT © LANA-AlHajri
 [@LANA-AlHajri](https://github.com/LANA-AlHajri)
 discord : ln0w
 
----
-صُنع بـ 💜 | فن CSS النقي
+
