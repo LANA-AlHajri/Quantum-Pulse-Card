@@ -45,6 +45,7 @@ MIT © LANA-AlHajri
 
 ## تواصل معي 🤝
 [@LANA-AlHajri](https://github.com/LANA-AlHajri)
+discord : ln0w
 
 ---
 صُنع بـ 💜 | فن CSS النقي
